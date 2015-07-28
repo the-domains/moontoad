@@ -1,6 +1,6 @@
 name: null
 favicon: null
-layout_spectrum: 0.01585
+layout_spectrum: 0.46622
 typography_spectrum: 0.17693
 cta:
   domain: null
@@ -21,11 +21,11 @@ color:
     - '#848484'
     - '#ebebeb'
     - '#000000'
-  brandStrength: 0
+  brandStrength: 0.1875
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.5
 purpose:
   - name: follow
-    item: null
+    item: 'null'
     url: null
