@@ -14,7 +14,7 @@ publisher:
   url: null
   favicon: null
 datePublished: '2015-07-29T18:35:02.656Z'
-dateModified: '2015-07-29T18:52:24.968Z'
+dateModified: '2015-07-29T18:52:40.357Z'
 sourcePath: _posts/2015-07-29-intaglio-printing.md
 published: true
 url: intaglio-printing/index.html
