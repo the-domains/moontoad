@@ -22,9 +22,9 @@ color:
     - '#6e6d69'
     - '#838381'
   brandStrength: 0.9375
-  lightness: 0.3125
-  saturation: 0.0625
-  rhythmicContrast: 0.25
+  lightness: 0.375
+  saturation: 0.6875
+  rhythmicContrast: 0
 purpose:
   - name: follow
     item: 45578190-a057-4d84-8bd8-b11780aa2d25
