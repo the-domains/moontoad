@@ -21,7 +21,7 @@ color:
     - '#848484'
     - '#ebebeb'
     - '#000000'
-  brandStrength: 0.1875
+  brandStrength: 0.6875
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.5
