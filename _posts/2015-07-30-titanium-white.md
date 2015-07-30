@@ -7,7 +7,7 @@ publisher:
   domain: ''
   name: ''
 title: ''
-dateModified: '2015-07-30T21:11:30.196Z'
+dateModified: '2015-07-30T21:11:44.378Z'
 sourcePath: _posts/2015-07-30-titanium-white.md
 published: true
 url: titanium-white/index.html
