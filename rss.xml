@@ -5,8 +5,15 @@
         <description><![CDATA[moontoad]]></description>
         <link>http://blog.moontoad.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 05 Aug 2015 20:57:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Aug 2015 21:08:07 GMT</lastBuildDate>
         <atom:link href="http://blog.moontoad.net/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[arm fauna]]></title>
+            <description><![CDATA[<article><h1>arm fauna</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6a098798-2bf2-4e9a-8a3c-ea69cc6e5c60.jpg"></article>]]></description>
+            <link>http://blog.moontoad.net/arm-fauna/index.html</link>
+            <guid isPermaLink="false">21e8eab4-1307-4a45-971c-5c200b40f9dc</guid>
+            <pubDate>Wed, 05 Aug 2015 21:07:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[modern ancient]]></title>
             <description><![CDATA[<article><h1>modern ancient</h1><p>The summer sun followed by the summer rains.  Seeds and wees, oh so many weeds.  Broken looms and worn out brushes.  Rusty cans and cobblestone walkways.  Elephants crushing mud houses because rage (sensless murder). </p></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://blog.moontoad.net/26f03aaa-7980-4431-9b11-3018cfe8ea5b/index.html</link>
             <guid isPermaLink="false">26f03aaa-7980-4431-9b11-3018cfe8ea5b</guid>
             <pubDate>Wed, 05 Aug 2015 16:32:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dc33e194-ef55-407d-89da-461ddbc36b28.png">]]></description>
-            <link>http://blog.moontoad.net/f32a4a93-cad4-41ca-8d2c-740cd90a06f2/index.html</link>
-            <guid isPermaLink="false">f32a4a93-cad4-41ca-8d2c-740cd90a06f2</guid>
-            <pubDate>Wed, 05 Aug 2015 15:42:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
