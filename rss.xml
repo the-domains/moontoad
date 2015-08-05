@@ -5,8 +5,15 @@
         <description><![CDATA[moontoad]]></description>
         <link>http://blog.moontoad.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 05 Aug 2015 18:46:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Aug 2015 18:46:44 GMT</lastBuildDate>
         <atom:link href="http://blog.moontoad.net/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bear tooth. ]]></title>
+            <description><![CDATA[<article><h1>Bear tooth. </h1><p>Bear tooth.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/959e3d4d-27fc-4ffb-820a-c943278e2d55.png"></article>]]></description>
+            <link>http://blog.moontoad.net/bear-tooth/index.html</link>
+            <guid isPermaLink="false">be2e2093-dbd9-4c44-aa58-10312d206d29</guid>
+            <pubDate>Wed, 05 Aug 2015 18:46:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/33b8cbf1-5db6-41f5-9cb8-f0ae09a41e55.png">]]></description>
@@ -69,13 +76,6 @@
             <link>http://blog.moontoad.net/edbdfc20-28f5-4b4a-bbd9-6bf4ef290c62/index.html</link>
             <guid isPermaLink="false">edbdfc20-28f5-4b4a-bbd9-6bf4ef290c62</guid>
             <pubDate>Wed, 29 Jul 2015 15:18:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Still Lifes]]></title>
-            <description><![CDATA[<article><h1>Still Lifes</h1><p>Slowing down life to understand the objects around us better. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c76f5658-448f-426d-a7c6-9d8cff7c8ac6.jpg"></article>]]></description>
-            <link>http://blog.moontoad.net/still-lifes/index.html</link>
-            <guid isPermaLink="false">b9d7cd9b-28ba-4363-8d1e-0f582fdab153</guid>
-            <pubDate>Wed, 29 Jul 2015 15:09:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
