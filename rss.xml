@@ -5,15 +5,8 @@
         <description><![CDATA[Untitled RSS Feed]]></description>
         <link>http://blog.moontoad.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 03 Aug 2015 15:54:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Aug 2015 14:34:27 GMT</lastBuildDate>
         <atom:link href="http://blog.moontoad.net/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Moonrise]]></title>
-            <description><![CDATA[<article><h1>Moonrise</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3f5b29a5-a588-428d-835c-85fc8e7bc3ca.jpg"></article>]]></description>
-            <link>http://blog.moontoad.net/moonrise/index.html</link>
-            <guid isPermaLink="false">af0fe9d4-3528-4dcd-a16d-ce59566c2f31</guid>
-            <pubDate>Mon, 03 Aug 2015 15:54:34 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dbc3f7c1-18b6-4d0f-a64c-ecb934953d9a.jpg">]]></description>
