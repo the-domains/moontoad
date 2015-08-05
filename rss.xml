@@ -5,8 +5,15 @@
         <description><![CDATA[moontoad]]></description>
         <link>http://blog.moontoad.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 05 Aug 2015 19:03:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Aug 2015 19:29:25 GMT</lastBuildDate>
         <atom:link href="http://blog.moontoad.net/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[shark tooth. ]]></title>
+            <description><![CDATA[<article><h1>shark tooth. </h1><p>shark tooth.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9f9f7506-de9a-42e7-bc66-5d18465ab69e.png"></article>]]></description>
+            <link>http://blog.moontoad.net/shark-tooth/index.html</link>
+            <guid isPermaLink="false">43ad4de1-4261-4223-87d5-2bc91c03f9c0</guid>
+            <pubDate>Wed, 05 Aug 2015 19:29:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Red chair. (Grandfather's)]]></title>
             <description><![CDATA[<article><h1>Red chair. (Grandfather's)</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/00404005-2975-487a-849b-6427e49fc082.png"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://blog.moontoad.net/the-set/index.html</link>
             <guid isPermaLink="false">6eac4108-6349-430a-9857-1660292e155d</guid>
             <pubDate>Wed, 05 Aug 2015 14:45:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Moonrise. ]]></title>
-            <description><![CDATA[<article><h1>Moonrise. </h1><p>Moonrise.</p></article>]]></description>
-            <link>http://blog.moontoad.net/moonrise/index.html</link>
-            <guid isPermaLink="false">a5a9ae51-ecaa-49b6-b90e-eade00d73ab1</guid>
-            <pubDate>Wed, 05 Aug 2015 14:34:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
