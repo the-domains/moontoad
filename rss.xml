@@ -5,8 +5,15 @@
         <description><![CDATA[moontoad]]></description>
         <link>http://blog.moontoad.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 05 Aug 2015 19:03:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Aug 2015 19:03:54 GMT</lastBuildDate>
         <atom:link href="http://blog.moontoad.net/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Red chair. (Grandfather's)]]></title>
+            <description><![CDATA[<article><h1>Red chair. (Grandfather's)</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/00404005-2975-487a-849b-6427e49fc082.png"></article>]]></description>
+            <link>http://blog.moontoad.net/red-chair-grandfathers/index.html</link>
+            <guid isPermaLink="false">73d2db2a-e623-4473-8f41-804c044c56ad</guid>
+            <pubDate>Wed, 05 Aug 2015 19:03:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bear tooth. ]]></title>
             <description><![CDATA[<article><h1>Bear tooth. </h1><p>Bear tooth.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/959e3d4d-27fc-4ffb-820a-c943278e2d55.png"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://blog.moontoad.net/moonrise/index.html</link>
             <guid isPermaLink="false">a5a9ae51-ecaa-49b6-b90e-eade00d73ab1</guid>
             <pubDate>Wed, 05 Aug 2015 14:34:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dbc3f7c1-18b6-4d0f-a64c-ecb934953d9a.jpg">]]></description>
-            <link>http://blog.moontoad.net/edbdfc20-28f5-4b4a-bbd9-6bf4ef290c62/index.html</link>
-            <guid isPermaLink="false">edbdfc20-28f5-4b4a-bbd9-6bf4ef290c62</guid>
-            <pubDate>Wed, 29 Jul 2015 15:18:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
