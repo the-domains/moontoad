@@ -5,8 +5,15 @@
         <description><![CDATA[moontoad]]></description>
         <link>http://blog.moontoad.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 05 Aug 2015 20:42:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Aug 2015 20:43:00 GMT</lastBuildDate>
         <atom:link href="http://blog.moontoad.net/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Deltahedron.]]></title>
+            <description><![CDATA[<article><h1>Deltahedron.</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3fe516be-190b-437f-b6e0-07ec537887de.png"></article>]]></description>
+            <link>http://blog.moontoad.net/deltahedron/index.html</link>
+            <guid isPermaLink="false">fb59d784-bceb-4484-bb8f-5da1d29c3fac</guid>
+            <pubDate>Wed, 05 Aug 2015 20:42:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[june intaglio.  ]]></title>
             <description><![CDATA[<article><h1>june intaglio.  </h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/faca8ef8-2a52-4b47-b2f4-ec596b54abef.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e5595adb-6d5f-4ff0-921a-e88613a0aec1.png">]]></description>
             <link>http://blog.moontoad.net/2ed0d774-f4ce-4f6c-8bb9-da1d64a22c2d/index.html</link>
             <guid isPermaLink="false">2ed0d774-f4ce-4f6c-8bb9-da1d64a22c2d</guid>
-            <pubDate>Wed, 05 Aug 2015 15:40:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5c82b19e-150c-413a-b7dc-a2a5b5d8eda8.png">]]></description>
-            <link>http://blog.moontoad.net/769cc075-d521-411a-a287-ebaef45dc012/index.html</link>
-            <guid isPermaLink="false">769cc075-d521-411a-a287-ebaef45dc012</guid>
             <pubDate>Wed, 05 Aug 2015 15:40:31 GMT</pubDate>
         </item>
     </channel>
