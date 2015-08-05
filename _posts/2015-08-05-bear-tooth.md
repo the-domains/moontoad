@@ -7,7 +7,7 @@ publisher:
   domain: ''
   name: ''
 title: ''
-dateModified: '2015-08-05T18:46:13.256Z'
+dateModified: '2015-08-05T19:03:16.032Z'
 sourcePath: _posts/2015-08-05-bear-tooth.md
 published: true
 url: bear-tooth/index.html
