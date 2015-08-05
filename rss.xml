@@ -5,8 +5,15 @@
         <description><![CDATA[moontoad]]></description>
         <link>http://blog.moontoad.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 05 Aug 2015 19:29:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Aug 2015 20:42:36 GMT</lastBuildDate>
         <atom:link href="http://blog.moontoad.net/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[june intaglio.  ]]></title>
+            <description><![CDATA[<article><h1>june intaglio.  </h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/faca8ef8-2a52-4b47-b2f4-ec596b54abef.png"></article>]]></description>
+            <link>http://blog.moontoad.net/june-intaglio/index.html</link>
+            <guid isPermaLink="false">cce1bf70-7963-428c-83fc-d355579207a4</guid>
+            <pubDate>Wed, 05 Aug 2015 20:42:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[shark tooth. ]]></title>
             <description><![CDATA[<article><h1>shark tooth. </h1><p>shark tooth.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9f9f7506-de9a-42e7-bc66-5d18465ab69e.png"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://blog.moontoad.net/769cc075-d521-411a-a287-ebaef45dc012/index.html</link>
             <guid isPermaLink="false">769cc075-d521-411a-a287-ebaef45dc012</guid>
             <pubDate>Wed, 05 Aug 2015 15:40:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Set. ]]></title>
-            <description><![CDATA[<article><h1>The Set. </h1><p>The Set.</p></article>]]></description>
-            <link>http://blog.moontoad.net/the-set/index.html</link>
-            <guid isPermaLink="false">6eac4108-6349-430a-9857-1660292e155d</guid>
-            <pubDate>Wed, 05 Aug 2015 14:45:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
