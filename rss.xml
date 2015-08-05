@@ -5,8 +5,15 @@
         <description><![CDATA[moontoad]]></description>
         <link>http://blog.moontoad.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 05 Aug 2015 16:32:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Aug 2015 16:33:05 GMT</lastBuildDate>
         <atom:link href="http://blog.moontoad.net/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[My grandfathers chair. ]]></title>
+            <description><![CDATA[<article><h1>My grandfathers chair. </h1><p>My grandfathers chair.</p></article>]]></description>
+            <link>http://blog.moontoad.net/my-grandfathers-chair/index.html</link>
+            <guid isPermaLink="false">17906566-8586-442e-abcb-71e181baec24</guid>
+            <pubDate>Wed, 05 Aug 2015 16:32:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac1217e3-3322-43fc-bdf7-1df80dfe84ab.png">]]></description>
@@ -69,11 +76,6 @@
             <link>http://blog.moontoad.net/nocturnal-caffine/index.html</link>
             <guid isPermaLink="false">804270f1-9c2e-470f-9421-db2f3fbacf50</guid>
             <pubDate>Wed, 29 Jul 2015 15:05:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <guid isPermaLink="false">7555532b-c392-4b38-8836-668c3efe6679</guid>
-            <pubDate>Wed, 29 Jul 2015 04:57:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
