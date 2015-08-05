@@ -5,8 +5,15 @@
         <description><![CDATA[moontoad]]></description>
         <link>http://blog.moontoad.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 05 Aug 2015 20:43:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Aug 2015 20:57:52 GMT</lastBuildDate>
         <atom:link href="http://blog.moontoad.net/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[modern ancient]]></title>
+            <description><![CDATA[<article><h1>modern ancient</h1><p>The summer sun followed by the summer rains.  Seeds and wees, oh so many weeds.  Broken looms and worn out brushes.  Rusty cans and cobblestone walkways.  Elephants crushing mud houses because rage (sensless murder). </p></article>]]></description>
+            <link>http://blog.moontoad.net/modern-ancient/index.html</link>
+            <guid isPermaLink="false">892520ab-bef8-469a-9fa7-0dded94471cd</guid>
+            <pubDate>Wed, 05 Aug 2015 20:57:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Deltahedron.]]></title>
             <description><![CDATA[<article><h1>Deltahedron.</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3fe516be-190b-437f-b6e0-07ec537887de.png"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://blog.moontoad.net/f32a4a93-cad4-41ca-8d2c-740cd90a06f2/index.html</link>
             <guid isPermaLink="false">f32a4a93-cad4-41ca-8d2c-740cd90a06f2</guid>
             <pubDate>Wed, 05 Aug 2015 15:42:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e5595adb-6d5f-4ff0-921a-e88613a0aec1.png">]]></description>
-            <link>http://blog.moontoad.net/2ed0d774-f4ce-4f6c-8bb9-da1d64a22c2d/index.html</link>
-            <guid isPermaLink="false">2ed0d774-f4ce-4f6c-8bb9-da1d64a22c2d</guid>
-            <pubDate>Wed, 05 Aug 2015 15:40:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
