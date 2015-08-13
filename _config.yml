@@ -23,7 +23,7 @@ color:
     - '#838381'
   brandStrength: 0
   lightness: 0
-  saturation: 0.875
+  saturation: 0.25
   rhythmicContrast: 1
 purpose:
   - name: follow
