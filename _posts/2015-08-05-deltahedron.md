@@ -7,7 +7,7 @@ description: ''
 author: []
 datePublished: '2015-08-05T20:42:19.685Z'
 title: Deltahedron.
-dateModified: '2015-08-05T20:42:19.685Z'
+dateModified: '2015-08-13T17:00:12.160Z'
 tags:
   - painting
   - oil
