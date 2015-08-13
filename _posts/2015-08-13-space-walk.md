@@ -7,7 +7,7 @@ publisher:
   domain: ''
   name: ''
 title: ''
-dateModified: '2015-08-13T17:00:12.168Z'
+dateModified: '2015-08-13T18:11:39.338Z'
 sourcePath: _posts/2015-08-13-space-walk.md
 published: true
 url: space-walk/index.html
