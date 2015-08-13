@@ -5,8 +5,15 @@
         <description><![CDATA[moontoad]]></description>
         <link>http://blog.moontoad.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 08 Aug 2015 18:00:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Aug 2015 17:00:21 GMT</lastBuildDate>
         <atom:link href="http://blog.moontoad.net/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The fluted elvin saddle. ]]></title>
+            <description><![CDATA[<article><h1>The fluted elvin saddle. </h1><p>The fluted elvin saddle.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/44e7c46f-9c42-4306-bbc2-39ca404cf45d.png"></article>]]></description>
+            <link>http://blog.moontoad.net/the-fluted-elvin-saddle/index.html</link>
+            <guid isPermaLink="false">65c435f0-1068-4ead-ae23-2d79d2f34ac9</guid>
+            <pubDate>Thu, 13 Aug 2015 17:00:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bolete and friends. ]]></title>
             <description><![CDATA[<article><h1>Bolete and friends. </h1><p>Bolete and friends.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac83788c-7c95-4ea2-bc98-4920f1352bed.png"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://blog.moontoad.net/e305c24a-ee26-4af3-9208-c4caa9837f8f/index.html</link>
             <guid isPermaLink="false">e305c24a-ee26-4af3-9208-c4caa9837f8f</guid>
             <pubDate>Wed, 05 Aug 2015 18:46:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[My grandfathers chair. ]]></title>
-            <description><![CDATA[<article><h1>My grandfathers chair. </h1><p>My grandfathers chair.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/866fdd63-8358-43ac-b5bb-7199e6a0faba.png"></article>]]></description>
-            <link>http://blog.moontoad.net/my-grandfathers-chair/index.html</link>
-            <guid isPermaLink="false">17906566-8586-442e-abcb-71e181baec24</guid>
-            <pubDate>Wed, 05 Aug 2015 16:32:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
