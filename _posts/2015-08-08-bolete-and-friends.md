@@ -7,7 +7,7 @@ publisher:
   domain: ''
   name: ''
 title: ''
-dateModified: '2015-08-08T18:00:29.876Z'
+dateModified: '2015-08-13T17:00:12.522Z'
 sourcePath: _posts/2015-08-08-bolete-and-friends.md
 published: true
 url: bolete-and-friends/index.html
