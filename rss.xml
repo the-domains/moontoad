@@ -5,8 +5,15 @@
         <description><![CDATA[moontoad]]></description>
         <link>http://blog.moontoad.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 13 Aug 2015 18:12:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Aug 2015 03:04:10 GMT</lastBuildDate>
         <atom:link href="http://blog.moontoad.net/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Split the atom.  (in progress)]]></title>
+            <description><![CDATA[<article><h1>Split the atom.  (in progress)</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e52f4090-28d6-4008-82ec-efccb99872cb.png"></article>]]></description>
+            <link>http://blog.moontoad.net/split-the-atom-in-progress/index.html</link>
+            <guid isPermaLink="false">e00ba5ae-77ff-489d-a2e3-01fd935210ac</guid>
+            <pubDate>Fri, 14 Aug 2015 03:03:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Space Walk. ]]></title>
             <description><![CDATA[<article><h1>Space Walk. </h1><p>Space Walk.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d02b026d-ccba-4420-ab06-9c48c3b2f64c.png"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://blog.moontoad.net/shark-tooth/index.html</link>
             <guid isPermaLink="false">43ad4de1-4261-4223-87d5-2bc91c03f9c0</guid>
             <pubDate>Wed, 05 Aug 2015 19:29:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Red chair. (Grandfather's)]]></title>
-            <description><![CDATA[<article><h1>Red chair. (Grandfather's)</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/00404005-2975-487a-849b-6427e49fc082.png"></article>]]></description>
-            <link>http://blog.moontoad.net/red-chair-grandfathers/index.html</link>
-            <guid isPermaLink="false">73d2db2a-e623-4473-8f41-804c044c56ad</guid>
-            <pubDate>Wed, 05 Aug 2015 19:03:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
