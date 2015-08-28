@@ -5,8 +5,15 @@
         <description><![CDATA[moontoad]]></description>
         <link>http://blog.moontoad.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 14 Aug 2015 03:04:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Aug 2015 14:48:43 GMT</lastBuildDate>
         <atom:link href="http://blog.moontoad.net/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Totem boletus. ]]></title>
+            <description><![CDATA[<article><h1>Totem boletus. </h1><p>Totem boletus.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d38641c3-642e-456a-b5d5-a1df68aaa606.png"></article>]]></description>
+            <link>http://blog.moontoad.net/totem-boletus/index.html</link>
+            <guid isPermaLink="false">0b5d90c1-4b35-4504-92f1-07e38170373e</guid>
+            <pubDate>Fri, 28 Aug 2015 14:47:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Split the atom.  (in progress)]]></title>
             <description><![CDATA[<article><h1>Split the atom.  (in progress)</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e52f4090-28d6-4008-82ec-efccb99872cb.png"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://blog.moontoad.net/june-intaglio/index.html</link>
             <guid isPermaLink="false">cce1bf70-7963-428c-83fc-d355579207a4</guid>
             <pubDate>Wed, 05 Aug 2015 20:42:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[shark tooth. ]]></title>
-            <description><![CDATA[<article><h1>shark tooth. </h1><p>shark tooth.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9f9f7506-de9a-42e7-bc66-5d18465ab69e.png"></article>]]></description>
-            <link>http://blog.moontoad.net/shark-tooth/index.html</link>
-            <guid isPermaLink="false">43ad4de1-4261-4223-87d5-2bc91c03f9c0</guid>
-            <pubDate>Wed, 05 Aug 2015 19:29:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
