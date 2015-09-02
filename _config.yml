@@ -1,31 +1,55 @@
-name: moontoad
+layout_spectrum: 1
 favicon: null
-layout_spectrum: 0.7506
-typography_spectrum: 0.17963
-cta:
-  domain: null
-  bucket: null
-  version: null
+name: moontoad
+purpose:
+  - item: b23a6902-dc23-434c-a7bb-20937e0e5063
+    name: follow
+    url: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    filter:
+      notType:
+        type: WebPage
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+  - filter:
+      type:
+        type: Article
+    permalink:
+      path: '/:title/'
+  - filter:
+      type:
+        type: WebPage
+    permalink:
+      path: '/:title/'
+      navigable: true
+cta:
+  version: null
+  bucket: null
+  domain: null
 color:
+  brandStrength: 0
+  saturation: 0.875
   brandColors:
     - '#a5891e'
     - '#212123'
     - '#bbbdbc'
     - '#6e6d69'
     - '#838381'
-  brandStrength: 0
   lightness: 1
-  saturation: 0.875
   rhythmicContrast: 0.75
-purpose:
-  - name: follow
-    item: b23a6902-dc23-434c-a7bb-20937e0e5063
-    url: null
+typography_spectrum: 0.17963
