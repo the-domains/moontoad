@@ -1,7 +1,7 @@
 name: moontoad
 favicon: null
 layout_spectrum: 0
-typography_spectrum: 0.17963
+typography_spectrum: 0.15793
 collections:
   - index:
       navigable: true
